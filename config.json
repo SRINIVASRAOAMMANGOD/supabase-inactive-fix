@@ -1,7 +1,7 @@
 [
   {
     "name": "MySupabaseProject",
-    "supabase_url": "https://sb_publishable_rKI2mugCTghEtI66xTvOYg_NAdXR1ZU.supabase.co",
+    "supabase_url": "https://ovdnqjshcbivuqqttdne.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   }
